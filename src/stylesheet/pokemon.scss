@@ -1,0 +1,22 @@
+.article {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.poketitle {
+  display: flex;
+  justify-content: center;
+  border-top: solid grey 1px;
+  border-bottom: solid grey 1px;
+}
+.type {
+  height: 30px;
+  list-style: none;
+  display: inline;
+  border-radius: 5px;
+  background-color: grey;
+  color: white;
+  margin-right: 5px;
+  font-size: 13px;
+}

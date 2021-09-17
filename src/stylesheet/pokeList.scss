@@ -1,0 +1,12 @@
+.pokeList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.pokeListItem {
+  list-style: none;
+  border: solid grey 1px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
